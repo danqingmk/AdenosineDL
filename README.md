@@ -2,7 +2,7 @@ DNN and CNN classification models of dual A1/A2A ARs antagonists
 =============
 ## Requirements
 
-This software has been tested on Linux with GTX 1080Ti GPUs. We think it should work with other linux-based setups quite easily.
+This software has been tested on Linux with GTX 1080Ti GPU. We think it should work with other linux-based setups quite easily.
  
 Prerequisites include:
 * Numpy, Scipy, Matplotlib: These are all found in [Anaconda](https://www.anaconda.com/)
